@@ -77,3 +77,13 @@ endmodule
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![image](https://github.com/shanmugavasanth/SR-FLIPFLOP-USING-CASE/assets/144870621/d69356ba-55b3-4e6a-9e5a-841e558f3262)
+
+
+**TIMING DIGRAMS FOR FLIP FLOPS**
+
+![image](https://github.com/shanmugavasanth/SR-FLIPFLOP-USING-CASE/assets/144870621/6bae66e4-162b-4f65-8844-c05259e5fb39)
+
+
+**RESULTS**
+
+Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
